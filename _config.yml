@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+deploy:
+type: git
+repository: https://lingyicaroline.github.io
+branch: master
